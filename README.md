@@ -26,8 +26,8 @@
  <br/>
 -npm start 
  <br/>
--then test the api after importing from insomnia 
+then test the api after importing from insomnia 
  <br/>
--have fun ><
+have fun ><
 
 
